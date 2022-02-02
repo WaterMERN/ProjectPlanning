@@ -11,7 +11,7 @@ what problems do we want to solve?
 ### Jordan ideas
 - a
 ### AnnieRae ideas
-- a
+- Find a friend travel app, that helps you connect to other travelers in your area . Could also add a functionality for what language they speak. 
 ### Danny ideas
 - a 
 ### Ryan ideas
