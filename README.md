@@ -9,7 +9,7 @@ Danny test
 what problems do we want to solve?
 ##
 ### Jordan ideas
-- a
+- Jordans ideas here
 ### AnnieRae ideas
 - Find a friend travel app, that helps you connect to other travelers in your area . Could also add a functionality for what language they speak. 
 ### Danny ideas
