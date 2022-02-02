@@ -31,9 +31,15 @@ what problems do we want to solve?
 ### Danny ideas
 - a 
 ### Ryan ideas
-- ways of searching for podcast episodes by topic?  
-    - Right now, we can only search for specific shows.
-    - You should be able to search for a specific topic (i.e., intermittent fasting) and find every single podcast episode related to it 
+
+- grocery store scanner app that will calculate total and print it for scanning at register
+
+- evacuation grab app(GrabAndGet) 
+    - user creates profile 
+    - user adds must grab items if evacuation is sounded 
+    - stores data in cloud 
+        - also works offline in event of no internet during evac 
+
 ## Front-End
 
 ## Back-End
