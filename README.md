@@ -2,7 +2,7 @@
 Planning once finalized we can add it to the main project repo 
 ## Team roles and workflow designation
 Danny test
-- 
+- git pull test for planning purposes 
 - 
 - 
 ## Ideas 
