@@ -10,7 +10,21 @@ Danny test
 what problems do we want to solve?
 ##
 ### Jordan ideas
-- Jordans ideas here
+- Pet friendly hotel finder app
+    - lists hotels that allow pets
+    - lists other pet friendly activities in the area
+- Book exchange app
+    - users create a profile about themselves
+        - what authors and genres they like
+        - the legnth of books they typically read
+        - what books they own right now and are they willing to trade/rent out the book
+    - can search for other profiles or specific gneres, titles, auhtors
+- Some kind of budget app
+    - could be a personal budget, trip budget, business, grocery shopping, etc.
+- Odd jobs app
+    - Helps people find someone near them to help out with small tasks around the house
+        - Ex.) mowing the lawn, walking the dog, watering plants, etc.
+        - could be useful for eldery people or someone who has a busy schedule
 ### AnnieRae ideas
 - Find a friend travel app, that helps you connect to other travelers in your area . Could also add a functionality for what language they speak. 
     - profile flags that show what activity user is looking for
