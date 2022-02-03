@@ -2,10 +2,10 @@
 Planning once finalized we can add it to the main project repo 
 before pull make sure everyone is pushed with all commits 
 ## Team roles and workflow designation
-Danny test
-- git pull test for planning purposes 
-- 
-- 
+- Ryan
+- Jordan
+- AnnieRae
+- Danny
 ## Ideas 
 what problems do we want to solve?
 ##
@@ -25,6 +25,9 @@ what problems do we want to solve?
     - Helps people find someone near them to help out with small tasks around the house
         - Ex.) mowing the lawn, walking the dog, watering plants, etc.
         - could be useful for eldery people or someone who has a busy schedule
+        - (Ryan notes) a simple list of jobs with location, what pay is and basic contact for job owner?
+            - then users can just browse by location then temporary claim the job by clicking on the button
+            - job owners would then confirm job completed then it would disappear from database 
 ### AnnieRae ideas
 - Find a friend travel app, that helps you connect to other travelers in your area . Could also add a functionality for what language they speak. 
     - profile flags that show what activity user is looking for
@@ -43,7 +46,7 @@ what problems do we want to solve?
                     - history
                     - good for outdoor adventure  
 ### Danny ideas
-- a 
+- a
 ### Ryan ideas
 
 - grocery store scanner app that will calculate total and print it for scanning at register
