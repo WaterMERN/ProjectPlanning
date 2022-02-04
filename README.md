@@ -8,9 +8,11 @@ Our stretch goals :
 -To have user log in fields 
 
 ## Team roles and workflow desie
-- Jordan 
-- AnnieRae
-- Danny
+- Jordan - Backend
+- AnnieRae - Front end
+- Danny - Front end
+- Ryan - Scrum Lead - Backend
+
 
 
 
