@@ -49,8 +49,6 @@ what problems do we want to solve?
 - 
 ### Ryan ideas
 
-- grocery store scanner app that will calculate total and print it for scanning at register
-
 - evacuation grab app(GrabAndGet) 
     - user creates profile 
     - user adds must grab items if evacuation is sounded 
