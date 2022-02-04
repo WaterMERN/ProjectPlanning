@@ -23,7 +23,7 @@ Our stretch goals :
 
 ## Wireframes
 #### Data types WireFrame comparison
-![alt text](datatypesforpossibleapps.png)
+![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/datatypesforpossibleapps.png)
 #### App comparison Wireframe 
 ![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/frontendDannytest.png)
 #### Frontend  Wireframe 
