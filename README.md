@@ -1,9 +1,9 @@
 # ProjectPlanning
 Planning once finalized we can add it to the main project repo 
 before pull make sure everyone is pushed with all commits 
-## Team roles and workflow designation
-- Ryan
-- Jordan
+## Team roles and workflow designation branches 
+- Ryan 
+- Jordan 
 - AnnieRae
 - Danny
 ## Ideas 
@@ -46,7 +46,7 @@ what problems do we want to solve?
                     - history
                     - good for outdoor adventure  
 ### Danny ideas
-- a
+- 
 ### Ryan ideas
 
 - grocery store scanner app that will calculate total and print it for scanning at register
