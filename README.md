@@ -19,5 +19,14 @@ Our stretch goals :
 
 ## Back-End
 
-## Wireframes 
-![alt text]()
+## Wireframes
+#### Data types WireFrame comparison
+![alt text](datatypesforpossibleapps.png)
+#### Frontend Wireframe 1
+![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/frontendDannytest.png)
+#### Frontend  Wireframe 2
+![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/TravelBudgeter%20front%20end%20sketch.png)
+#### Backend Wireframe
+![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/Travel%20budgeter%20BACKEND.png)
+#### Full WireFrame
+![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/TravelBudgeter%20FRONT%20AND%20BACK%20ENDS.png)
