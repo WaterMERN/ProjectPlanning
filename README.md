@@ -4,8 +4,16 @@ Our app is called Travel Watcher . It's a budget tracker that helps you plan and
 Your expense are tallied and displayed on a card called "Current Trip" so you can get a full picture of your budget and costs. 
 
 Our stretch goals : 
--To have your past trips load onto a history page, so you can reference these when planning more future trips. 
--To have user log in fields 
+- To have a a trip length data structure 
+    - allows for a daily budget breakdown taken from total budget divided by number of days for trip 
+    - This would have a day child component that has all of the same categories that the parent trip does
+        - day budget and day total comparison so travelers can plan for future expenses during trip
+        - day expense categories can be totaled to update total cost of each parent trip expense category 
+        - each parent expense category can be displayed and calculated towards overall total
+    
+- To have your past trips load onto a history page, so you can reference these when planning more future trips. 
+- To have user log in fields 
+
 
 ## Team roles and workflow desie
 - Jordan - Backend
