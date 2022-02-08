@@ -21,9 +21,38 @@ Our stretch goals :
 - Danny - Front end
 - Ryan - Scrum Lead - Backend
 
-
-
-
+## Timeline
+- Feb 3rd 
+    - wireframes sketches and project proposal finished
+- Feb 8th 
+    - pseudo backend 
+    - layout front end design with xd || excalidraw
+    - pseudo front end
+- Feb 9th 
+    - backend framework built
+        - controllers built
+        - models built
+        - middleware built
+        - seed files built for testing 
+    - front end framework built 
+        - components linked through routes, 
+        - components created
+        - basic css for visualization and testing
+- Feb 10th
+    - backend data test phase 
+        - debug as needed 
+        - if passes integrate with front end 
+    - front end test phase for dataflow 
+        - debug as needed
+        - integrate backend when available
+- Feb 11th 
+    - Reach MVP 
+    - work on stretch goals 
+    - create presentation 
+        - decide who talks about what
+        - set time limit
+- Feb 15th    
+    - Presentation DAY!
 
 ## Front-End
 
