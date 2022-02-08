@@ -23,7 +23,7 @@
 ## index.js 
 - express
 - cors
-- redirect app.get
+- redirect app.get for main page
 - app.use 
     - tripController
     - userController
