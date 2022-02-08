@@ -52,6 +52,11 @@
     - cutomErrors
 - app.listen
 
+## database
+- connection.js
+- seed.js
+- seeds.json 
+    - filled with basic trips 
 ## Models Pseudo Code
 - Trip Schema
     - require mongoose at the top

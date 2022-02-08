@@ -22,3 +22,4 @@ The create trip component sends data to the database that is then mapped over to
 
 Current Trip Card/My Trip component: 
 This component displays the information that was input in the create trip component 
+git p
