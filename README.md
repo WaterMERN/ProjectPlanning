@@ -34,6 +34,7 @@ Our stretch goals :
         - models built
         - middleware built
         - seed files built for testing 
+        - db built
     - front end framework built 
         - components linked through routes, 
         - components created
