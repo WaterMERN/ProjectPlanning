@@ -66,6 +66,8 @@ Our stretch goals :
 ![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/frontendDannytest.png)
 #### Frontend  Wireframe 
 ![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/TravelBudgeter%20front%20end%20sketch.png)
+#### redesigned front end mockup
+![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/2-10%20frontend%20remock.png)
 #### Backend Wireframe
 ![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/Travel%20budgeter%20BACKEND.png)
 #### Full WireFrame
