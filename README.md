@@ -15,12 +15,12 @@ Our stretch goals :
 - To have user log in fields 
 
 
-## Team roles and workflow desie
-- Jordan - Backend
-- AnnieRae - Front end
-- Danny - Front end
-- Ryan https://github.com/rybaier - Scrum Lead - Backend
-
+## Team  
+- Jordan Stotts - https://github.com/jordanstotts
+- AnnieRae Cioccolanti - https://github.com/AnnieRae1111
+- Danny Gardner - https://github.com/DannyGardner2
+- Ryan Baier https://github.com/rybaier - Scrum Lead
+  
 ## Timeline
 - Feb 3rd 
     - wireframes sketches and project proposal finished
@@ -55,10 +55,20 @@ Our stretch goals :
 - Feb 15th    
     - Presentation DAY!
 
+### Technologies Used
+HTML 
+CSS 
+JavaScript 
+React 
+ReactStrap
+MongoDB
+Express 
+Node 
+Heroku 
 ## Front-End
-
+https://github.com/WaterMERN/tw-front-end
 ## Back-End
-
+https://github.com/WaterMERN/tw-Back-End
 ## Wireframes
 #### Data types WireFrame comparison
 ![alt text](https://github.com/WaterMERN/ProjectPlanning/blob/main/wireframes/datatypesforpossibleapps.png)
