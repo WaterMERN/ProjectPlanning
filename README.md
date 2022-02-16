@@ -19,7 +19,7 @@ Our stretch goals :
 - Jordan - Backend
 - AnnieRae - Front end
 - Danny - Front end
-- Ryan - Scrum Lead - Backend
+- Ryan https://github.com/rybaier - Scrum Lead - Backend
 
 ## Timeline
 - Feb 3rd 
